@@ -68,9 +68,8 @@ This project visualizes school data for **Students, Teachers, Departments, Proje
 
 ---
 
-## 📄 **License**
-
-This project is licensed under the **MIT License** – feel free to use and customize it.  
+##🔗**LinkedIn**
+www.linkedin.com/in/sai-subhashree-14681520b
 
 ---
 ✨ Developed with **Excel & Data Visualization** skills to simplify **School Management**.  
